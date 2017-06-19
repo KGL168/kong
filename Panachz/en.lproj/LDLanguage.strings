@@ -1,0 +1,72 @@
+/* 
+  LDLanguage.strings
+  Panachz
+
+  Created by sanlimikaifa on 2017/2/16.
+  Copyright © 2017年 Palapple. All rights reserved.
+*/
+
+"My workshop" = "My workshop";
+"Ldenim Gallery" = "Ldenim Gallery";
+
+//设计流程
+"Fit" = "Fit";
+"Fabric" = "Fabric";
+"Wash" = "Wash";
+"Summary" = "Summary";
+
+//Fit
+"Rise" = "Rise";
+"Fly" = "Fly";
+
+"SkinnyFitDesc" = "Fitted slim through the hip and thigh and tapered leg opening.";
+"StraightFitDesc" = "A classic fit with room from the hip down to the thigh that comes with a straight leg opening.";
+"BootcutFitDesc" = "The classic bootcut fit, which is comfortably throughout the hip and thigh straight into the bootcut opening.";
+"JeggFitDesc" = "A slim and fitted denim style from top to bottom, made up of part denim and part leggins.";
+
+"LowRiseDesc" = "The men's low rise sits about 2.5'' below the belly button. Compliments most people's body feautures who have a naural slim waist.";
+"MiRiseDesc" = "Sits 1'' below below the belly button. suitable fit for most people.";
+
+"ZipFlyDesc" = "Your jeans will be fitted with a zipper fly closure of the best quality that can be found on the market";
+"ButtFlyDesc" = "Your jeans will have a classic button fly closure.";
+
+//布料
+"Base Color" = "Base Color";
+"Construction Thread" = "Construction Thread";
+
+"Cotton" = "Cotton";
+"Spandex" = "Spandex";
+"Denim" = "Denim";
+
+"LightBaseColorDesc" = "A light wash gives the jeans a very subtle loss of color while still giving you that soft sand blasted look.";
+"MediumBaseColorDesc" = "The most commonly used wash. This wash creates a nice contrast between blasted and non-blasted areas.";
+"DarkBaseColorDesc" = "With an Indigo was you will have the darkest tone of indigo available.";
+"ConstructionThreadDesc" = "We use Gunzetal polyester thread known for its strength and high endurance, this particular thread will not fade and last a lifetime of washes.";
+
+//洗水
+"Whisker" = "Whisker";
+"Sup Sandblast" = "Sup Sandblast";
+"Sandblasting" = "Sandblasting";
+"Grinding" = "Grinding";
+"Rip & Tear" = "Rip & Tear";
+
+"WhiskerDesc" = "The imitated lines that form on and arund the lap and legs of jeans through continuous wearing.";
+"SupSandblastDesc" = "A technique that folds or scrunches several layers of denim together before being washed. The result will be a pattern of lighter areas against darker areas surrounding the tacking pattern.";
+"SandblastingDesc" = "A technique used to chip off the outer layer of the natural indigo of the denim to created the faded worn look.";
+"GrindingDesc" = "The chipping away at the fabric to break up the yarn and get tiny tears exposing the thread. This is most commonly applied at the bottom hen and around the pocket edges.";
+"RipTearDesc" = "The long worn look achieved by cutting the fabric after the wash.";
+
+//Summary
+"SummaryBottomInfo" = "After review above information,please click save.";
+
+
+//My Workshop
+"MyWorshopBottomInfo" = "A chipping away at the fabric to break the yarns and get small tears.Most commonly used at the front or back panel of the jeans.";
+"Output" = "Output";
+
+//左菜单
+"User Account" = "User Account";
+"About L-Denim" = "About L-Denim";
+
+
+
