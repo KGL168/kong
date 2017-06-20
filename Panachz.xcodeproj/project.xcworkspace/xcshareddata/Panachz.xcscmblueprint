@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6B88547CFD53FC2C2059E61480766BF7FF73412C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E63D28785AFE0FCB5A6A2A1AC5D2F93A6573BE34" : 0,
+    "6B88547CFD53FC2C2059E61480766BF7FF73412C" : 9223372036854775807,
+    "9D76B515C8370C07FDC0665BBB6C6EE5805C39A8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "745F0F15-50B1-4658-A20F-39B14E24FAA3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E63D28785AFE0FCB5A6A2A1AC5D2F93A6573BE34" : "panachz_new_ios",
+    "6B88547CFD53FC2C2059E61480766BF7FF73412C" : "l-denim\/",
+    "9D76B515C8370C07FDC0665BBB6C6EE5805C39A8" : "new_panachz_ios"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Panachz",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Panachz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KGL168\/MakeReSet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B88547CFD53FC2C2059E61480766BF7FF73412C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "192.168.11.50:\/share\/git\/new_panachz_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9D76B515C8370C07FDC0665BBB6C6EE5805C39A8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "192.168.11.50:\/share\/git\/panachz_new_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E63D28785AFE0FCB5A6A2A1AC5D2F93A6573BE34"
+    }
+  ]
+}
